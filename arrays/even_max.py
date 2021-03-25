@@ -10,7 +10,7 @@ def largest_even(s):
             if min_ev_el>arr[i]:
                 min_ev_el=arr[i] 
                 min_ev_ind=i
-        if arr[i]%2 == 0:
+        if arr[i]%2 == 1:
             if min_odd_el>arr[i]:
                 min_odd_el = arr[i]
                 min_odd_ind = i
