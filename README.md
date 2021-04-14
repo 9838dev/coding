@@ -13,6 +13,8 @@ In array file..
 4) Count palindromic substring(count_palindromic_substring.py)
 5) check wheather count of global and local inversion are equal or not(global_local_inversion.py)
 6) count number of occurence of a element in an sorted array(count_occurence.py)
+7) find total no. of combination of letters according to phone number digits(letter_combination_phone_number.py)
+8) Array nesting(array_nesting.py)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 In stack directory..
