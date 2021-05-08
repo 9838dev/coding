@@ -24,5 +24,5 @@ In stack directory..
 -------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 In dp directory
 
-1) Hackerrank problem of Candies
-2) find minimum number of deletion need to perform to make strings same
+1) Hackerrank problem of Candies (Candies.py)
+2) find minimum number of deletion need to perform to make strings same (Delete_Operation_for_Two_Strings.py)
