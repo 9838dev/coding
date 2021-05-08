@@ -20,3 +20,9 @@ In array file..
 In stack directory..
 1) longest valid parenthesis
 2) maximum of minimum for every window size in a given array
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+In dp directory
+
+1) Hackerrank problem of Candies
+2) find minimum number of deletion need to perform to make strings same
