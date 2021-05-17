@@ -1,6 +1,8 @@
 # gap filling algorithm
 # merge two sorted array and resultant array is also sorted without any extra space 
 
+# problem link: https://www.geeksforgeeks.org/merge-two-sorted-arrays/
+
 def find_gap(n):
     if n<=1:
         return 0

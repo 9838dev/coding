@@ -1,5 +1,6 @@
 # find all triplets with zero sum
 # 3 sum
+# problem link: https://leetcode.com/problems/3sum/
 
 def triplets(arr,n):
     arr.sort()
