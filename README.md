@@ -26,3 +26,5 @@ In dp directory
 
 1) Hackerrank problem of Candies (Candies.py)
 2) find minimum number of deletion need to perform to make strings same (Delete_Operation_for_Two_Strings.py)
+3) Install minimum number of camera in binary tree(Binary_Tree_Camera.py)
+4) Trapping rainwater(trapping_rainwater.py)
