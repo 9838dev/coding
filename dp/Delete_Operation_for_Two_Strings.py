@@ -2,6 +2,8 @@
 
 # problem link: https://leetcode.com/problems/delete-operation-for-two-strings/
 
+# overcoming the space complexity of O(n^2) in original dp solution
+
 def minDistance(word1, word2):
     dp = [0]*len(word2)
     for i in range(len(word1)):
