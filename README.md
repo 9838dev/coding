@@ -15,6 +15,7 @@ In array file..
 6) count number of occurence of a element in an sorted array(count_occurence.py)
 7) find total no. of combination of letters according to phone number digits(letter_combination_phone_number.py)
 8) Array nesting(array_nesting.py)
+9) roman to integer(roman_int.py)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 In stack directory..
@@ -28,3 +29,10 @@ In dp directory
 2) find minimum number of deletion need to perform to make strings same (Delete_Operation_for_Two_Strings.py)
 3) Install minimum number of camera in binary tree(Binary_Tree_Camera.py)
 4) Trapping rainwater(trapping_rainwater.py)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+In bit manipulation directory
+
+1) counting number of '1' bit (in bit representation) of given number(number_of_one_bit.py)
+2) find given number is power of two or not(power_of_two.py)
+3) countinf number of '1' bit in range of 0 to given number (counting_bit.py)
