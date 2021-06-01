@@ -2,8 +2,9 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 In algorithm file..
-1) nqueen problem
-2) various sorting algorithm (in sorting_algo.py)
+1) nqueen problem ( https://github.com/9838dev/coding/blob/main/algorithm/nqueen.py )
+2) various sorting algorithm ( https://github.com/9838dev/coding/blob/main/algorithm/sorting_algo.py )
+3) generate parentheses ( https://github.com/9838dev/coding/blob/main/algorithm/generate_parenthesis.py )
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 In array file..
@@ -19,8 +20,8 @@ In array file..
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 In stack directory..
-1) longest valid parenthesis
-2) maximum of minimum for every window size in a given array
+1) longest valid parenthesis ( https://github.com/9838dev/coding/blob/main/stack/longest_valid_parenthesis.py )
+2) maximum of minimum for every window size in a given array ( https://github.com/9838dev/coding/blob/main/stack/max_min_window_size.py )
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 In dp directory
